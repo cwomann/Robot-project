@@ -16,3 +16,16 @@ This replication package is structured as follows:
   |--- robotCode/             All the code used to program the robot.
   |--- Robot_BThesis_EN       The final bachelor thesis report. Produced at the end of the project. 
 ```
+
+
+### code 
+---
+```
+  .
+  |--- P117.ino                This is the main file
+  |--- decision.ino            This file deals with all the code related with the decision on the way to go on auto mode.
+  |--- distance.ino            This file deals with all the code related with getting the distance from the pulse returned by the sensor
+  |--- motor.ino               This file deals with all the code related with the motors movements.
+  |--- servidor.ino            This file deals with all the code related with the server
+  |--- web_page.h              The web page created as the remote control
+````
