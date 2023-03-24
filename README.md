@@ -7,3 +7,12 @@ After researching and validating the solutions found, the prototype was assemble
 
 The remote mode has been implemented through the design of a Web page connected to a server deployed into on the development board.
 
+This replication package is structured as follows:
+
+````
+  /
+  .
+  |--- Images/             		The Figures used on the report, as a result of testing and the final prtotype.
+  |--- robotCode/             All the code used to program the robot.
+  |--- Robot_BThesis_EN       The final bachelor thesis report. Produced at the end of the project. 
+```
